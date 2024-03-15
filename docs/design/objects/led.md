@@ -5,7 +5,7 @@
 
 | Property   | Value      | Default | Description
 |------------|------------|---------|---------------
-| val        | byte       | 0       | The brightness of the indicator [`0..255`]
+| val        | byte       | 0       | The brightness of the indicator [`0..200`]
    
 [1]: ../data-types.md#colors
 [2]: ../data-types.md#boolean
